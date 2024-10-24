@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:enabled="true"
+        android:icon="@drawable/home__1_"
+        android:tint="@null"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_upcoming"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/upcoming__1_"
+        android:tint="@null"
+        android:title="@string/title_upcoming" />
+
+    <item
+        android:id="@+id/navigation_finished"
+        android:enabled="true"
+        android:icon="@drawable/completed"
+        android:tint="@null"
+        android:title="@string/title_finished" />
+
+    <!-- New item for Favorite -->
+    <item
+        android:id="@+id/navigation_favorite"
+        android:enabled="true"
+        android:icon="@drawable/favorite"
+        android:tint="@null"
+        android:title="@string/title_favorite" />
+
+    <!-- New item for Settings -->
+    <item
+        android:id="@+id/navigation_settings"
+        android:enabled="true"
+        android:icon="@drawable/settings"
+        android:tint="@null"
+        android:title="@string/title_settings" />
+
+</menu>

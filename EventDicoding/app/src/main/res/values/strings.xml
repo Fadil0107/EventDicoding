@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EventDicoding</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="recommendation_event_for_you">Event Rekomendasi Untukmu!</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="description">Deskripsi</string>
+    <string name="description_long">Informasi Selanjutnya</string>
+    <string name="daftar">Daftar Disini</string>
+    <string name="kuota">Kuota: </string>
+    <string name="waktu_mulai">Waktu Acara:  </string>"
+    <string name="cari_event">Dev Coach</string>
+    <string name="no_inet">No Internet Connection.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
